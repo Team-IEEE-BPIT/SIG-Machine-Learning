@@ -1,17 +1,19 @@
-# Assignment 1: Introduction to Machine Learning (Very Easy)
-**Total Marks: 30**  
-
+# ML SIG 2025 Final Assignments
+---
 ### Guidelines : 
 1. **No more than 10% of total code can be AI generated.**
-2. **Write from scratch without using sklearn unless you are explicitly specified to do so.**
-3. **Justify your answers as much as you can, there are no word or LOC limit for any of the assignments.**
+2. **Write from scratch without using sklearn unless you are explicitly asked to do so.**
+3. **Justify your answers as much as you can, there are no word or LOC limit for any of the assignments. But most optimized solutions will get 5 points extra (in terms of loss or LOC, the exact criteria will not be revealed).**
 4. **Any format for submission is allowed but markdowns are appreciated, also handwritten solutions(for math questions) as well as a single Python script for all the code is also allowed and appreciated.**
 5. **You are free to Google any terms you might have not heard of.**
-6. **This set of assignments is competitive and a leaderboard will be maintained to check you progress against your peers.**
+6. **This set of assignments is competitive and a leaderboard will be maintained to check your progress against your peers.**
 7. **The deadline to submit this assignment is 1st May 2025.**
 
 ### Guidelines for submission:
-1. **A Google drive folder [link](https://drive.google.com/drive/folders/1-h-zI9YmGG7ioIeMkrdJEuj-QFYq7xIf?usp=sharing) has been created and you will have to create a folder of your name and submit the files there**
+- **A Google drive folder [link](https://drive.google.com/drive/folders/1-h-zI9YmGG7ioIeMkrdJEuj-QFYq7xIf?usp=sharing) has been created in which you will have to create a folder of your name and submit the files in the created folder.**
+---
+# Assignment 1: Introduction to Machine Learning (Very Easy)
+**Total Marks: 30**  
 ---
 
 ### **Theoretical Questions**  
