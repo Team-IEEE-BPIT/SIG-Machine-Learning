@@ -4,7 +4,7 @@
 1. **No more than 10% of total code can be AI generated.**
 2. **Write from scratch without using sklearn unless you are explicitly asked to do so.**
 3. **Justify your answers as much as you can, there are no word or LOC limit for any of the assignments. But most optimized solutions will get 5 points extra (in terms of loss or LOC, the exact criteria will not be revealed).**
-4. **Any format for submission is allowed but markdowns are appreciated, also handwritten solutions(for math questions) as well as a single Python script for all the code is also allowed and appreciated.**
+4. **Any format for submission is allowed but markdowns are appreciated, also handwritten solutions (for math questions or theoretical ML/DL questions) as well as a single Python script for all the code is also allowed and appreciated.**
 5. **You are free to Google any terms you might have not heard of.**
 6. **This set of assignments is competitive and a leaderboard will be maintained to check your progress against your peers.**
 7. **The deadline to submit this assignment is 1st May 2025.**
