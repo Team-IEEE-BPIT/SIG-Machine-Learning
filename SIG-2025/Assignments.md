@@ -28,7 +28,7 @@
 
 4. **Linear Algebra Basics (3 marks)**  
    - Multiply the matrices:  
-   ![Matrix A and B](https://latex.codecogs.com/png.image?\dpi{110}A=\begin{bmatrix}1&2\\3&4\end{bmatrix},\quad B=\begin{bmatrix}5&6\\7&8\end{bmatrix})
+   [Matrix A and B](https://latex.codecogs.com/png.image?\dpi{110}A=\begin{bmatrix}1&2\\3&4\end{bmatrix},\quad B=\begin{bmatrix}5&6\\7&8\end{bmatrix})
 
 5. **Probability Basics (3 marks)**  
    - If the probability of rain on any given day is 0.3, what is the probability it rains exactly 2 days in a week?  
