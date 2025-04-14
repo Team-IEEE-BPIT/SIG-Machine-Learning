@@ -29,8 +29,8 @@
 4. **Linear Algebra Basics (3 marks)**  
    - Multiply the matrices:  
    $$
-   A = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}, \quad 
-   B = \begin{bmatrix} 5 & 6 \\ 7 & 8 \end{bmatrix}
+      A = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}, \quad 
+      B = \begin{bmatrix} 5 & 6 \\ 7 & 8 \end{bmatrix}
    $$
 
   
