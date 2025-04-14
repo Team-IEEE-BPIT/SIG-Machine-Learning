@@ -28,12 +28,7 @@
 
 4. **Linear Algebra Basics (3 marks)**  
    - Multiply the matrices:  
-   A = [ [1, 2],
-         [3, 4] ]
-
-   B = [ [5, 6],
-         [7, 8] ]
-
+   ![Screenshot 2025-04-14 at 10 43 11 AM](https://github.com/user-attachments/assets/734dbaf2-8bc9-48e4-93cc-4e0619faac78)
 
 5. **Probability Basics (3 marks)**  
    - If the probability of rain on any given day is 0.3, what is the probability it rains exactly 2 days in a week?  
